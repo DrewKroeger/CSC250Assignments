@@ -1,0 +1,1 @@
+int anagrams(char str[],char strstr[]);//this is the header for anagrams.c
