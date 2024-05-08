@@ -1,0 +1,6 @@
+A5: assignment5Driver.o anagrams.o
+	gcc assignment5Driver.o anagrams.o -o A5
+assignment5Driver.o: Assignment5Driver.c anagrams.h
+	gcc -c Assignment5Driver.c
+anagrams.o: anagrams.c anagrams.h
+	gcc -c anagrams.c

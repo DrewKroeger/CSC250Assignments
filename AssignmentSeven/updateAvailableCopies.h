@@ -1,0 +1,1 @@
+void updateAvailableCopies(struct Book* library, int bookCount);

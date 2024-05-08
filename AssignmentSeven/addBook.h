@@ -1,0 +1,1 @@
+void addBook(struct Book* library, int* bookCount);

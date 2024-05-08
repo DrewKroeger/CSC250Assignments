@@ -1,0 +1,1 @@
+void deleteBook(struct Book* library, int* bookCount); 
